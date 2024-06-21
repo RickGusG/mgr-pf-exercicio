@@ -11,11 +11,16 @@ function App() {
           Sérgio da Rocha
         </p>
         <p>
+          Pedro Vitor Rodrigues Coelho
+        </p>
+
+        <p>
          Thalles Palmarim
          </p>
          <p>
         Ricardo Gumiero
         </p>
+        
         <p>
           Alexandre Junior
         </p>
