@@ -21,12 +21,12 @@ function App() {
           Gabriel Dantas
         </p>
 
-    <p>
+    
+        <p>
           Natan Costa
         </p>
 
         <p>
-          Ricardo Gumiero
           Leila Brum
         </p>
 
@@ -47,6 +47,7 @@ function App() {
           </p>
           
       
+
         <p>
           Pedro Vitor Rodrigues Coelho
         </p>
@@ -54,6 +55,8 @@ function App() {
         <p>
          Thalles Palmarim
          </p>
+      
+
         <p>
           Ricardo Gumiero
         </p>
@@ -68,6 +71,8 @@ function App() {
         <p>
           Thaisa Souza
         </p>
+
+        
         <p>
           Natanael Santana
         </p>
