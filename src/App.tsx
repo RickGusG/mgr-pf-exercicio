@@ -10,15 +10,13 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         
         <p>
-          Palloma Nobre 
+          Ricardo Gumiero
         </p>
-        
         <p>
-      Marina Camaño
+          Caio Oliveira
         </p>
-
-    <p>
-          Gabriel Dantas
+        <p>
+          Palloma Nobre 
         </p>
 
     
@@ -33,14 +31,6 @@ function App() {
         <p>
           Marina Camaño
         </p>
-
-        <p>
-        Gabriel Dantas
-        </p>
-        
-        <p>
-          Ricardo Gumiero
-        </p>
           
           <p>
           Sérgio da Rocha
@@ -51,16 +41,12 @@ function App() {
         <p>
           Pedro Vitor Rodrigues Coelho
         </p>
-
         <p>
-         Thalles Palmarim
+          Thalles Palmarim
          </p>
-      
-
-        <p>
-          Ricardo Gumiero
-        </p>
-        
+         <p>
+          Gabriel Dantas
+      </p>
         <p>
           Marcelly
         </p>
