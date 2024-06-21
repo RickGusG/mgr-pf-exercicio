@@ -1,3 +1,4 @@
+
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
@@ -11,6 +12,10 @@ function App() {
 Marina Camaño
         </p>
 
+          Gabriel Dantas
+        </p>
+        <p>
+          Ricardo Gumiero
           Sérgio da Rocha
         </p>
         <p>
