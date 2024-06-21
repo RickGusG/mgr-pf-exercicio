@@ -8,9 +8,11 @@ function App() {
       <header className="App-header">j
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+        Ricardo Gumiero
+        </p>
+        <p>
           Alexandre Junior
         </p>
-        
       </header>
     </div>
   );
