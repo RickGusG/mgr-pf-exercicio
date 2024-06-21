@@ -8,7 +8,13 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          Ricardo Gumiero
+        </p>
+        <p>
           Caio Oliveira
+        </p>
+        <p>
+          Alexandre Junior
         </p>
       </header>
     </div>
