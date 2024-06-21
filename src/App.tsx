@@ -8,7 +8,11 @@ function App() {
       <header className="App-header">j
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+<<<<<<< HEAD
           Leila Brum
+=======
+          Sérgio da Rocha
+>>>>>>> 50e6709886c5e79f1bf9be5267e6a382103e359e
         </p>
         <p>
           Pedro Vitor Rodrigues Coelho
@@ -21,6 +25,9 @@ function App() {
         Ricardo Gumiero
         </p>
         
+        <p>
+          Marcelly
+        </p>
         <p>
           Alexandre Junior
         </p>
