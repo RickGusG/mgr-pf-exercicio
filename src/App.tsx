@@ -1,3 +1,4 @@
+
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
@@ -8,10 +9,17 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+<<<<<<< HEAD
           Ricardo Gumiero
         </p>
         <p>
           Caio Oliveira
+=======
+          Gabriel Dantas
+        </p>
+        <p>
+          Ricardo Gumiero
+>>>>>>> 0500113e856b3298571727729ddae6819b7135a4
           Sérgio da Rocha
         </p>
         <p>
