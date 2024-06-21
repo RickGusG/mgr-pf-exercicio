@@ -5,10 +5,18 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-header">j
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Pedro Vitor Rodrigues Coelho
+        </p>
+
+        <p>
+        Ricardo Gumiero
+        </p>
+        
+        <p>
+          Alexandre Junior
         </p>
       </header>
     </div>
