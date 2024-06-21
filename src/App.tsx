@@ -15,6 +15,9 @@ function App() {
           Caio Oliveira
         </p>
         <p>
+          Marina Camaño
+        </p>
+        <p>
           Sérgio da Rocha
         </p>
         <p>
