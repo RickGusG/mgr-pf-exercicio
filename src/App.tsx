@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">j
+      <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
         <p>
@@ -20,6 +20,8 @@ function App() {
     <p>
           Gabriel Dantas
         </p>
+
+    
         <p>
           Natan Costa
         </p>
@@ -27,18 +29,33 @@ function App() {
         <p>
           Leila Brum
         </p>
+
+        <p>
+          Marina Camaño
+        </p>
+
+        <p>
+        Gabriel Dantas
+        </p>
+        
+        <p>
+          Ricardo Gumiero
+        </p>
           
           <p>
           Sérgio da Rocha
           </p>
+          
+      
 
         <p>
           Pedro Vitor Rodrigues Coelho
         </p>
 
-         <p>
-          Thalles Palmarim
-        </p>
+        <p>
+         Thalles Palmarim
+         </p>
+      
 
         <p>
           Ricardo Gumiero
@@ -50,6 +67,9 @@ function App() {
 
         <p>
           Alexandre Junior
+          </p>
+        <p>
+          Thaisa Souza
         </p>
 
         
