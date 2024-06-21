@@ -11,11 +11,23 @@ function App() {
           Leila Brum
         </p>
         <p>
+          Pedro Vitor Rodrigues Coelho
+        </p>
+
+        <p>
+         Thalles Palmarim
+         </p>
+         <p>
         Ricardo Gumiero
         </p>
+        
         <p>
           Alexandre Junior
         </p>
+        <p>
+          Natanael Santana
+        </p>
+       
       </header>
     </div>
   );
