@@ -10,7 +10,9 @@ function App() {
         <p>
           Alexandre Junior
         </p>
-        
+        <p>
+        Ricardo Gumiero
+        </p>
       </header>
     </div>
   );
