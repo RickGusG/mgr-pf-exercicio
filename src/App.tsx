@@ -8,39 +8,49 @@ function App() {
     <div className="App">
       <header className="App-header">j
         <img src={logo} className="App-logo" alt="logo" />
+        
         <p>
-<<<<<<< HEAD
-          Leila Brum
-        </p>
-        <p>
-=======
-Marina Camaño
+          Natan Costa
         </p>
 
-          Gabriel Dantas
-        </p>
         <p>
           Ricardo Gumiero
->>>>>>> 0f58fa968fe0f27722734f55592c8ea79e4282c3
+          Leila Brum
+        </p>
+
+        <p>
+          Marina Camaño
+        </p>
+
+        <p>
+        Gabriel Dantas
+        </p>
+        
+        <p>
+          Ricardo Gumiero
           Sérgio da Rocha
         </p>
+
         <p>
           Pedro Vitor Rodrigues Coelho
         </p>
 
         <p>
-         Thalles Palmarim
-         </p>
-         <p>
-        Ricardo Gumiero
+          Thalles Palmarim
+        </p>
+
+        <p>
+          Ricardo Gumiero
         </p>
         
         <p>
           Marcelly
         </p>
+
         <p>
           Alexandre Junior
         </p>
+        
         <p>
           Natanael Santana
         </p>
