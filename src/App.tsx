@@ -9,6 +9,9 @@ function App() {
       <header className="App-header">j
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+Marina Camaño
+        </p>
+
           Gabriel Dantas
         </p>
         <p>
