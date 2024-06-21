@@ -12,12 +12,17 @@ function App() {
         </p>
 
         <p>
+         Thalles Palmarim
+         </p>
+         <p>
         Ricardo Gumiero
+          Natanael Lima Santana
         </p>
         
         <p>
           Alexandre Junior
         </p>
+       
       </header>
     </div>
   );
