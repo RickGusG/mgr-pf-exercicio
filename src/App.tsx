@@ -8,14 +8,19 @@ function App() {
       <header className="App-header">j
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+         Thalles Palmarim
+         </p>
+         <p>
         Ricardo Gumiero
-          Natanael Lima Santana
         </p>
         <p>
           Marcelly
         </p>
         <p>
           Alexandre Junior
+        </p>
+        <p>
+          Natanael Santana
         </p>
        
       </header>
