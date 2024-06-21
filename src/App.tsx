@@ -1,3 +1,4 @@
+
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
@@ -7,10 +8,24 @@ function App() {
     <div className="App">
       <header className="App-header">j
         <img src={logo} className="App-logo" alt="logo" />
+        
         <p>
           Natan Costa
         </p>
 
+        <p>
+          Ricardo Gumiero
+          Leila Brum
+        </p>
+
+        <p>
+          Marina Camaño
+        </p>
+
+        <p>
+        Gabriel Dantas
+        </p>
+        
         <p>
           Ricardo Gumiero
           Sérgio da Rocha
