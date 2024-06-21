@@ -10,11 +10,17 @@ function App() {
         <p>
           Sérgio da Rocha
         </p>
+        <p>
+         Thalles Palmarim
+         </p>
+         <p>
         Ricardo Gumiero
-          Natanael Lima Santana
         </p>
         <p>
           Alexandre Junior
+        </p>
+        <p>
+          Natanael Santana
         </p>
        
       </header>
