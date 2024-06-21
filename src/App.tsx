@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        
         <p>
           Ricardo Gumiero
         </p>
@@ -15,11 +16,28 @@ function App() {
           Caio Oliveira
         </p>
         <p>
+          Palloma Nobre 
+        </p>
+
+    
+        <p>
+          Natan Costa
+        </p>
+
+        <p>
+          Leila Brum
+        </p>
+
+        <p>
           Marina Camaño
         </p>
-        <p>
+          
+          <p>
           Sérgio da Rocha
-        </p>
+          </p>
+          
+      
+
         <p>
           Pedro Vitor Rodrigues Coelho
         </p>
@@ -28,13 +46,19 @@ function App() {
          </p>
          <p>
           Gabriel Dantas
-        </p>
+      </p>
         <p>
           Marcelly
         </p>
+
         <p>
           Alexandre Junior
+          </p>
+        <p>
+          Thaisa Souza
         </p>
+
+        
         <p>
           Natanael Santana
         </p>
