@@ -8,11 +8,16 @@ function App() {
       <header className="App-header">j
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          Pedro Vitor Rodrigues Coelho
+        </p>
+
+        <p>
          Thalles Palmarim
          </p>
          <p>
         Ricardo Gumiero
         </p>
+        
         <p>
           Alexandre Junior
         </p>
