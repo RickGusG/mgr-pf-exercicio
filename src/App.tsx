@@ -8,11 +8,10 @@ function App() {
       <header className="App-header">j
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-<<<<<<< HEAD
           Palloma Nobre 
         </p>
         
-=======
+        <p>
           Pedro Vitor Rodrigues Coelho
         </p>
 
@@ -30,7 +29,6 @@ function App() {
           Natanael Santana
         </p>
        
->>>>>>> 7b1aaed926a27fbb0046bfc75c003ab2bfba9df1
       </header>
     </div>
   );
