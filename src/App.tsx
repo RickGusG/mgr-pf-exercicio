@@ -12,10 +12,29 @@ function App() {
         </p>
         <p>
           Caio Oliveira
+          Sérgio da Rocha
+        </p>
+        <p>
+          Pedro Vitor Rodrigues Coelho
+        </p>
+
+        <p>
+         Thalles Palmarim
+         </p>
+         <p>
+        Ricardo Gumiero
+        </p>
+        
+        <p>
+          Marcelly
         </p>
         <p>
           Alexandre Junior
         </p>
+        <p>
+          Natanael Santana
+        </p>
+       
       </header>
     </div>
   );
