@@ -9,30 +9,23 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-<<<<<<< HEAD
           Ricardo Gumiero
         </p>
         <p>
           Caio Oliveira
-=======
-          Gabriel Dantas
         </p>
         <p>
-          Ricardo Gumiero
->>>>>>> 0500113e856b3298571727729ddae6819b7135a4
           Sérgio da Rocha
         </p>
         <p>
           Pedro Vitor Rodrigues Coelho
         </p>
-
         <p>
-         Thalles Palmarim
+          Thalles Palmarim
          </p>
          <p>
-        Ricardo Gumiero
+          Gabriel Dantas
         </p>
-        
         <p>
           Marcelly
         </p>
