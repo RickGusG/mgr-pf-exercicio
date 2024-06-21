@@ -8,6 +8,9 @@ function App() {
       <header className="App-header">j
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          Sérgio da Rocha
+        </p>
+        <p>
           Pedro Vitor Rodrigues Coelho
         </p>
 
