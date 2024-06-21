@@ -8,12 +8,45 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        
         <p>
+          Palloma Nobre 
+        </p>
+        
+        <p>
+      Marina Camaño
+        </p>
+
+    <p>
+          Gabriel Dantas
+        </p>
+
+    <p>
+          Natan Costa
+        </p>
+
+        <p>
+          Ricardo Gumiero
           Leila Brum
         </p>
+
         <p>
-          Sérgio da Rocha
+          Marina Camaño
         </p>
+
+        <p>
+        Gabriel Dantas
+        </p>
+        
+        <p>
+          Ricardo Gumiero
+        </p>
+          
+          <p>
+          Sérgio da Rocha
+          </p>
+          
+      
         <p>
           Pedro Vitor Rodrigues Coelho
         </p>
@@ -21,13 +54,14 @@ function App() {
         <p>
          Thalles Palmarim
          </p>
-         <p>
-        Ricardo Gumiero
+        <p>
+          Ricardo Gumiero
         </p>
         
         <p>
           Marcelly
         </p>
+
         <p>
           Alexandre Junior
           </p>
