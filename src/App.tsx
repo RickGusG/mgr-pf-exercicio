@@ -10,25 +10,33 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         
         <p>
+          Palloma Nobre 
+        </p>
+        
+        <p>
+      Marina Camaño
+        </p>
+
+    <p>
+          Gabriel Dantas
+        </p>
+        <p>
+          Natan Costa
+        </p>
+
+        <p>
           Leila Brum
         </p>
-        <p>
-        Marina Camaño
-        </p>
-        
-        <p>
-        Gabriel Dantas
-        </p>
-        
-        <p>
+          
+          <p>
           Sérgio da Rocha
-        </p>
+          </p>
 
         <p>
           Pedro Vitor Rodrigues Coelho
         </p>
 
-        <p>
+         <p>
           Thalles Palmarim
         </p>
 
@@ -43,6 +51,7 @@ function App() {
         <p>
           Alexandre Junior
         </p>
+
         
         <p>
           Natanael Santana
