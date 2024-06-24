@@ -1,0 +1,62 @@
+/* src/components/StackSection.css */
+.stack-section {
+    padding: 3px 1px;
+    background-color: #f7fafc;
+
+    
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    gap: 30px;
+  }
+  
+  .section-title {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .stacks-grid {
+    display: flex;
+    width: 100%;
+    gap: 10%;
+    justify-content: center;
+    
+  }
+
+  .stack-card {
+    padding: 1.5px;
+    background-color: #fff;
+    text-align: center;
+    align-items: center;
+  }
+
+  .stack-card p {
+    padding-top: 14px;
+    font-size: 20px;
+  }
+  
+  .titulo-stack {
+    font-size: 1.75px;
+    font-weight: 600;
+    margin-bottom: 1px;
+  }
+  
+  .stack-description {
+    font-size: 1px;
+    color: #4a5568;
+  }
+  
+  .icon-circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 102px; /* Tamanho fixo para garantir um círculo perfeito */
+    height: 102px; /* Mesmo valor que a largura para formar um círculo */
+    border-radius: 50%;
+    padding: 14px;
+  }
+
+  
