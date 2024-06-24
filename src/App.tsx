@@ -2,9 +2,11 @@ import MemberCard from "./components/MemberCard";
 
 function App() {
   return (
-    <>
-    <MemberCard />
+   <>
+      <MemberCard />
     </>
+
+
   );
 }
 
