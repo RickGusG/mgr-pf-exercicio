@@ -5,89 +5,89 @@
         "id": 1,
         "nome": "Thaisa Souza",
         "stack": "Ui/UX",
-        "foto": "fotos/thaisa.jpg"
+        "foto": "images/thaisa.jpg"
       },
       {
         "id": 2,
         "nome": "Natan Delamuta",
         "stack": "Ui/UX",
-        "foto": "fotos/natan.jpg"
+        "foto": "images/natan.jpg"
       },
       {
         "id": 3,
         "nome": "Palloma Nobre",
         "stack": "Ui/UX",
-        "foto": "fotos/palloma.jpg"
+        "foto": "images/palloma.jpg"
       },
       {
         "id": 4,
         "nome": "Leila Brum",
         "stack": "Ui/UX",
-        "foto": "fotos/leila.jpg"
+        "foto": "images/leila.jpg"
       },
       {
         "id": 5,
         "nome": "Marina Camano",
         "stack": "Ui/UX",
-        "foto": "fotos/marina.jpg"
+        "foto": "images/marina.jpg"
       },
       {
         "id": 6,
         "nome": "Alexandre Velozo",
         "stack": "Fullstack",
-        "foto": "fotos/alexandre.png"
+        "foto": "images/alexandre.png"
       },
       {
         "id": 7,
         "nome": "Caio Oliveiro",
         "stack": "Fullstack",
-        "foto": "fotos/caio.png"
+        "foto": "images/caio.png"
       },
       {
         "id": 8,
         "nome": "Marcelly Farias",
         "stack": "Fullstack",
-        "foto": "fotos/marcelly.png"
+        "foto": "images/marcelly.png"
       },
       {
         "id": 9,
         "nome": "Natanael Lima",
         "stack": "Fullstack",
-        "foto": "fotos/natanael.png"
+        "foto": "images/natanael.png"
       },
       {
         "id": 10,
         "nome": "Sérgio da Rocha",
         "stack": "Fullstack",
-        "foto": "fotos/sergio.png"
+        "foto": "images/sergio.png"
       },
       {
         "id": 11,
         "nome": "Thalles Rocha",
         "stack": "Fullstack",
-        "foto": "fotos/thalles.png"
+        "foto": "images/thalles.png"
       },
       {
         "id": 12,
         "nome": "Gabriel Alvez",
         "stack": "Quality Assurance",
-        "foto": "fotos/gabriel.png"
+        "foto": "images/gabriel.png"
       },
       {
         "id": 13,
         "nome": "Pedro Coelho",
         "stack": "Quality Assurance",
-        "foto": "fotos/pedro.png"
+        "foto": "images/pedro.png"
       },{ 
         "id": 14,
         "nome": "Mohamad Hammoud",
         "stack": "Infraestrutura",
-        "foto": "fotos/mohamed.png"
+        "foto": "images/mohamed.png"
       },{
         "id": 15,
         "nome": "Diego Braz",
         "stack": "Infraestrutura",
-        "foto": "fotos/diego.png"
+        "foto": "images/diego.jpg"
       }
       
      ]
