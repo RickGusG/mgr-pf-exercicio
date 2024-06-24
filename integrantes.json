@@ -3,33 +3,33 @@
     "galera": 
      [ {
         "id": 1,
-        "nome": "Macarons deliciosos",
-        "stack": "",
-        "foto": " https://i0.wp.com/umaturistanasnuvens.com/wp-content/uploads/2020/10/doces-ao-redor-do-mundo-macarons.jpg?resize=1170%2C780&ssl=1"
+        "nome": "Thaisa Souza",
+        "stack": "Ui/UX",
+        "foto": "fotos/thaisa.jpg"
       },
       {
-        "id": 1,
-        "nome": "Macarons deliciosos",
-        "stack": "",
-        "foto": " https://i0.wp.com/umaturistanasnuvens.com/wp-content/uploads/2020/10/doces-ao-redor-do-mundo-macarons.jpg?resize=1170%2C780&ssl=1"
+        "id": 2,
+        "nome": "Natan Delamuta",
+        "stack": "Ui/UX",
+        "foto": "fotos/natan.jpg"
       },
       {
-        "id": 1,
-        "nome": "Macarons deliciosos",
-        "stack": "",
-        "foto": " https://i0.wp.com/umaturistanasnuvens.com/wp-content/uploads/2020/10/doces-ao-redor-do-mundo-macarons.jpg?resize=1170%2C780&ssl=1"
+        "id": 3,
+        "nome": "Palloma Nobre",
+        "stack": "Ui/UX",
+        "foto": "fotos/palloma.jpg"
       },
       {
-        "id": 1,
-        "nome": "Macarons deliciosos",
-        "stack": "",
-        "foto": " https://i0.wp.com/umaturistanasnuvens.com/wp-content/uploads/2020/10/doces-ao-redor-do-mundo-macarons.jpg?resize=1170%2C780&ssl=1"
+        "id": 4,
+        "nome": "Leila Brum",
+        "stack": "Ui/UX",
+        "foto": "fotos/leila.jpg"
       },
       {
-        "id": 1,
-        "nome": "Macarons deliciosos",
-        "stack": "",
-        "foto": " https://i0.wp.com/umaturistanasnuvens.com/wp-content/uploads/2020/10/doces-ao-redor-do-mundo-macarons.jpg?resize=1170%2C780&ssl=1"
+        "id": 5,
+        "nome": "Marina Camano",
+        "stack": "Ui/UX",
+        "foto": "fotos/marina.jpg"
       },
       {
         "id": 1,
