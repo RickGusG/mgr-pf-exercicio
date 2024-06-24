@@ -32,33 +32,33 @@
         "foto": " https://i0.wp.com/umaturistanasnuvens.com/wp-content/uploads/2020/10/doces-ao-redor-do-mundo-macarons.jpg?resize=1170%2C780&ssl=1"
       },
       {
-        "id": 1,
-        "nome": "Macarons deliciosos",
-        "stack": "",
+        "id": 6,
+        "nome": "Alexandre Velozo",
+        "stack": "Fullstack",
+        "foto": "fotos/alexandrevelozo.jpg"
+      },
+      {
+        "id": 7,
+        "nome": "Caio Oliveiro",
+        "stack": "Fullstack",
         "foto": " https://i0.wp.com/umaturistanasnuvens.com/wp-content/uploads/2020/10/doces-ao-redor-do-mundo-macarons.jpg?resize=1170%2C780&ssl=1"
       },
       {
-        "id": 1,
-        "nome": "Macarons deliciosos",
-        "stack": "",
+        "id": 8,
+        "nome": "Marcelly Farias",
+        "stack": "Fullstack",
         "foto": " https://i0.wp.com/umaturistanasnuvens.com/wp-content/uploads/2020/10/doces-ao-redor-do-mundo-macarons.jpg?resize=1170%2C780&ssl=1"
       },
       {
-        "id": 1,
-        "nome": "Macarons deliciosos",
-        "stack": "",
+        "id": 9,
+        "nome": "Natanael Lima",
+        "stack": "Fullstack",
         "foto": " https://i0.wp.com/umaturistanasnuvens.com/wp-content/uploads/2020/10/doces-ao-redor-do-mundo-macarons.jpg?resize=1170%2C780&ssl=1"
       },
       {
-        "id": 1,
-        "nome": "Macarons deliciosos",
-        "stack": "",
-        "foto": " https://i0.wp.com/umaturistanasnuvens.com/wp-content/uploads/2020/10/doces-ao-redor-do-mundo-macarons.jpg?resize=1170%2C780&ssl=1"
-      },
-      {
-        "id": 1,
-        "nome": "Macarons deliciosos",
-        "stack": "",
+        "id": 10,
+        "nome": "Sérgio da Rocha",
+        "stack": "Fullstack",
         "foto": " https://i0.wp.com/umaturistanasnuvens.com/wp-content/uploads/2020/10/doces-ao-redor-do-mundo-macarons.jpg?resize=1170%2C780&ssl=1"
       },
       {
