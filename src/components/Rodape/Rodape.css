@@ -1,10 +1,17 @@
-.footer{
+.footer {
     background-color: #D9D9D9;
+    height: 97px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
 }
-.imgFooter{
-    float:left;
-    margin-left: 30px;
+
+.imgFooter {
+    margin-right: 15px;
 }
-.pFooter{
+
+.pFooter {
     text-align: center;
+    margin-right: 35%;
 }
