@@ -1,0 +1,39 @@
+.h2NH{
+    text-align: center;
+    font-size: 2rem;
+}
+.pNH{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.NossaHistoria{
+    padding: 30px;
+    width: 600px;
+    font-size: 4px;
+    margin-top: 0px;
+}
+
+.banner-image{
+    width: 600px;
+    height: auto;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+}
+.titulo-historia{
+    width: 400px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.historia-Titulo{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 50px;
+}
