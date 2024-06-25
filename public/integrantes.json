@@ -1,0 +1,94 @@
+  {
+
+    "integrantes": 
+     [ {
+        "id": 1,
+        "nome": "Thaisa Souza",
+        "stack": "Ui/UX",
+        "foto": "images/thaisa.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "Natan Delamuta",
+        "stack": "Ui/UX",
+        "foto": "images/natan.jpg"
+      },
+      {
+        "id": 3,
+        "nome": "Palloma Nobre",
+        "stack": "Ui/UX",
+        "foto": "images/palloma.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "Leila Brum",
+        "stack": "Ui/UX",
+        "foto": "images/leila.jpg"
+      },
+      {
+        "id": 5,
+        "nome": "Marina Camano",
+        "stack": "Ui/UX",
+        "foto": "images/marina.jpg"
+      },
+      {
+        "id": 6,
+        "nome": "Alexandre Velozo",
+        "stack": "Fullstack",
+        "foto": "images/alexandre.png"
+      },
+      {
+        "id": 7,
+        "nome": "Caio Oliveiro",
+        "stack": "Fullstack",
+        "foto": "images/caio.png"
+      },
+      {
+        "id": 8,
+        "nome": "Marcelly Farias",
+        "stack": "Fullstack",
+        "foto": "images/marcelly.jpg"
+      },
+      {
+        "id": 9,
+        "nome": "Natanael Lima",
+        "stack": "Fullstack",
+        "foto": "images/natanael.png"
+      },
+      {
+        "id": 10,
+        "nome": "Sérgio da Rocha",
+        "stack": "Fullstack",
+        "foto": "images/sergio.png"
+      },
+      {
+        "id": 11,
+        "nome": "Thalles Rocha",
+        "stack": "Fullstack",
+        "foto": "images/thalles.png"
+      },
+      {
+        "id": 12,
+        "nome": "Gabriel Alvez",
+        "stack": "Quality Assurance",
+        "foto": "images/gabriel.png"
+      },
+      {
+        "id": 13,
+        "nome": "Pedro Coelho",
+        "stack": "Quality Assurance",
+        "foto": "images/pedro.png"
+      },{ 
+        "id": 14,
+        "nome": "Mohamad Hammoud",
+        "stack": "Infraestrutura",
+        "foto": "images/mohamed.png"
+      },{
+        "id": 15,
+        "nome": "Diego Braz",
+        "stack": "Infraestrutura",
+        "foto": "images/diego.png"
+      }
+      
+     ]
+  }
