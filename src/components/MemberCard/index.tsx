@@ -27,7 +27,7 @@ const MemberCard: React.FC = () => {
 
     return (
         <div className="container">
-      <h3>FULL STACK</h3>
+      <h2>TIME</h2>
       <div className="wrapper">
         {integrantes.map(integrante => (
           <div className="card" key={integrante.id}>
